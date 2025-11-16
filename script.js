@@ -1,4 +1,4 @@
-// 🎵 My list of songs
+//  My list of songs
 const mySongs = [
     {
         title: "Friends",
